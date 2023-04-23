@@ -1,0 +1,9 @@
+{
+  "lumoImports" : [ "typography", "color", "spacing", "badge", "utility" ],
+  "assets" : {
+    "@fontsource/josefin-sans" : {
+      "*.css" : "@fontsource/josefin-sans",
+      "files/*" : "@fontsource/josefin-sans/files"
+    }
+  }
+}
